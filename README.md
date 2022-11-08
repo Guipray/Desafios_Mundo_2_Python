@@ -1,4 +1,4 @@
-# Desafios do Mundo 1 de Python
+# Desafios do Mundo 2 de Python
 
 Os desafios fazem parte do Curso de Python do canal <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso Em Vídeo</a>.
 
